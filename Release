@@ -1,0 +1,8 @@
+Origin: Refu's Repo
+Label: refu
+Suite: stable
+Version: 1.0
+Codename: refu
+Architectures: iphoneos-arm
+Compornent: main
+Description: Refu's Repo
