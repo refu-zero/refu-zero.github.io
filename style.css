@@ -1,0 +1,36 @@
+* {
+  margin:0; padding:0;
+}
+
+header {
+  width: 100%;
+  padding: 15px 0;
+  margin: 0 auto;
+  text-align: center;
+  animation-name: fadein;
+  animation-duration: 5s;
+}
+header .headline{
+  font-size: 30px;
+}
+
+main {
+  text-align: center;
+  animation-name: fadein;
+  animation-duration: 5s;
+}
+
+
+/*  #####fadein animation#####  */
+@keyframes fadein {
+from {
+    opacity: 0;
+    transform: translateY(0px); /*スライドの開始位置*/
+    transform: translateX(0px);
+}
+to {
+    opacity: 1;
+    transform: translateX(0px); /*スライドの最終位置*/
+    transform: translateY(0px); /*終了後は指定された位置へ戻る*/
+}
+}
