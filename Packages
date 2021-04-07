@@ -1,14 +1,14 @@
 Package: com.refu.thedock
-Version: 0.0.1-1+debug
+Version: 0.0.2-1+debug
 Architecture: iphoneos-arm
 Maintainer: refu
 Installed-Size: 368
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.refu.thedock_0.0.1-1+debug_iphoneos-arm.deb
-Size: 50106
-MD5sum: 42f7885a146644f30f8d6fc3c69098bc
-SHA1: 45d3b050a3d09ac12599aad0d82c9e5642854603
-SHA256: 391c461030059cddabee66ec44a8e9d7443b27d1acd5eec440ced619f0b15353
+Filename: ./debs/com.refu.thedock_0.0.2-1+debug_iphoneos-arm.deb
+Size: 50446
+MD5sum: 0d4bd8deb67dad85848b0c632ab188c8
+SHA1: 18a8469a18f71198a233b6def085321508085f03
+SHA256: 94db0574292ee604409569275b385c135fe298bbae4f07c9baa4a7a52a5bdb2d
 Section: Tweaks
 Description: Customize the Dock.
 Author: refu
